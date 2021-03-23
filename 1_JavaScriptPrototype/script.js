@@ -18,3 +18,13 @@ const str2 = String('I am string');
 Object.prototype.sayHello = () => {
     console.log('Hello!')
 };
+// Добавление своего метода масива в прототип
+const array = [1,2,3,4,5,6,7];
+
+Array.prototype.multByArr = function (n = 1) {
+    // this будет указывать на исходный массив по дефолту к которому применяется метод
+    return this.map(i => {
+        return i * n;
+    })
+}
+// теперь у всех массивов будет дефолтный метод multByArr
