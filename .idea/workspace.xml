@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ea0906a-5a52-4d5c-8bf8-0fd3d75e0c59" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1q9PaTWgpr4y1u6mzwr8ErVcwyi" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/15_Fetch" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\webStorm\Progects\Deep-JS\15_Fetch" />
+      <recent name="E:\webStorm\Progects\Deep-JS\14_Fetch_XMLHttpRequest" />
+      <recent name="E:\webStorm\Progects\Deep-JS\13_Map_Set_WeakMap_WeakSet" />
+      <recent name="E:\webStorm\Progects\Deep-JS" />
+      <recent name="E:\webStorm\Progects\Deep-JS\11_Generators" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\webStorm\Progects\Deep-JS" />
+      <recent name="E:\webStorm\Progects\Deep-JS\1_JavaScriptPrototype" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ea0906a-5a52-4d5c-8bf8-0fd3d75e0c59" name="Default Changelist" comment="" />
+      <created>1616488895340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616488895340</updated>
+      <workItem from="1616488896410" duration="16292000" />
+      <workItem from="1616585335150" duration="3866000" />
+      <workItem from="1616664516969" duration="2602000" />
+      <workItem from="1616755594913" duration="5528000" />
+      <workItem from="1616832768823" duration="7799000" />
+      <workItem from="1616864300349" duration="3115000" />
+      <workItem from="1616954511945" duration="2757000" />
+      <workItem from="1617002302318" duration="1138000" />
+      <workItem from="1617036392115" duration="5477000" />
+      <workItem from="1617091902991" duration="702000" />
+      <workItem from="1618687790793" duration="2720000" />
+    </task>
+    <task id="LOCAL-00001" summary="Что такое prototype. JavaScript Prototype">
+      <created>1616488987989</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616488987989</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Что такое контекст this. Как работает call, bind, apply">
+      <created>1616491321373</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616491321373</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Что такое контекст this. Как работает call, bind, apply">
+      <created>1616494457494</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616494457494</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Замыкания и их использование, инкапсуляция при помощи замыкания">
+      <created>1616504520921</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616504520921</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Promise">
+      <created>1616508857238</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616508857238</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Promise all, race">
+      <created>1616522330869</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616522330869</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Object.create.">
+      <created>1616587656483</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616587656483</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ES6 Классы">
+      <created>1616770400792</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616770400792</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Асинхронное выполнение кода">
+      <created>1616772158921</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616772158921</updated>
+    </task>
+    <task id="LOCAL-00010" summary="proxy">
+      <created>1616835901104</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616835901104</updated>
+    </task>
+    <task id="LOCAL-00011" summary="proxy practical use">
+      <created>1616836209774</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616836209774</updated>
+    </task>
+    <task id="LOCAL-00012" summary="proxy practical use">
+      <created>1616838624794</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1616838624794</updated>
+    </task>
+    <task id="LOCAL-00013" summary="generator">
+      <created>1616866841107</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1616866841107</updated>
+    </task>
+    <task id="LOCAL-00014" summary="generator">
+      <created>1616867521741</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1616867521741</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Методы массивов">
+      <created>1616956988979</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1616956988979</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Методы массивов">
+      <created>1616957079383</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1616957079383</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Map, Set, WeakMap, WeakSet">
+      <created>1617041265138</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1617041265138</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Что такое prototype. JavaScript Prototype" />
+    <MESSAGE value="Что такое контекст this. Как работает call, bind, apply" />
+    <MESSAGE value="Замыкания и их использование, инкапсуляция при помощи замыкания" />
+    <MESSAGE value="Promise" />
+    <MESSAGE value="Promise all, race" />
+    <MESSAGE value="Object.create." />
+    <MESSAGE value="ES6 Классы" />
+    <MESSAGE value="Асинхронное выполнение кода" />
+    <MESSAGE value="proxy" />
+    <MESSAGE value="proxy practical use" />
+    <MESSAGE value="generator" />
+    <MESSAGE value="Методы массивов" />
+    <MESSAGE value="Map, Set, WeakMap, WeakSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Map, Set, WeakMap, WeakSet" />
+  </component>
+</project>
